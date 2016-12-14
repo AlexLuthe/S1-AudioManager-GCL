@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/AudioManager.unity
+  isLoaded: 1
+  isActive: 1
